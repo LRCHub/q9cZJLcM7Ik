@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "ボーイズENDガールズ",
+  "base_artist": "CreepHyp",
+  "createdAt": "2026-03-27T01:43:57.711778Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ボーイズENDガールズ",
+      "artist": "クリープハイプ",
+      "has_synced": true,
+      "path": "select/01_ボーイズENDガールズ_クリープハイプ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボーイズENDガールズ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_01_ボーイズENDガールズ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ボーイズENDガールズ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_02_ボーイズENDガールズ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "ボーイズENDガールズ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_03_ボーイズENDガールズ_クリープハイプ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "ボーイズENDガールズ",
+      "artist": "クリープハイプ",
+      "has_synced": false,
+      "path": "select/pl_04_ボーイズENDガールズ_クリープハイプ.txt"
+    }
+  ]
+}
